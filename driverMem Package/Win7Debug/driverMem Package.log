@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019-02-28 09:34:11。
+     1>项目“D:\vs2013Projects\driverReadWriteMemory\driverMem Package\driverMem Package.vcxproj”在节点 2 上(Build 个目标)。
+     1>Inf2Cat:
+         C:\Program Files\Windows Kits\8.1\bin\x86\inf2cat.exe /os:7_x86 /driver:"D:\vs2013Projects\driverReadWriteMemory\Win7Debug\driverMem Package\\" 
+         .........................
+         Signability test complete.
+         
+         Errors:
+         None
+         
+         Warnings:
+         None
+         
+         Catalog generation complete.
+         D:\vs2013Projects\driverReadWriteMemory\Win7Debug\driverMem Package\drivertest.cat
+       DriverTestSign:
+         C:\Program Files\Windows Kits\8.1\bin\x86\signtool.exe sign /ph /sha1 "E2DF73EC11C2D03141EC26BC9E259DE88055E0B5" 
+         Done Adding Additional Store
+         Successfully signed: D:\vs2013Projects\driverReadWriteMemory\Win7Debug\driverMem Package\drivertest.cat
+         
+     1>已完成生成项目“D:\vs2013Projects\driverReadWriteMemory\driverMem Package\driverMem Package.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.46
